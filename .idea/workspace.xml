@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43975e0b-db28-43f5-865a-ccbb40b9a938" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/HW13_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/doctrees/environment.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/doctrees/index.doctree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/html/.buildinfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/html/_sources/index.rst.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/alabaster.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/basic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/doctools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/documentation_options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/file.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/language_data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/pygments.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/searchtools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/sphinx_highlight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/html/genindex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/html/objects.inv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/html/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build/html/searchindex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_route_auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_unit_repository_contacts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_unit_repository_emails.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HW12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/contacts.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/repository/contacts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/emails.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/repository/emails.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/users.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/repository/users.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2gNNPEAcRA1qU51RaYhaAm7s4CA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/PythonWeb/HoW13_1/HW13_1/tests"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonWeb\HoW13_1\HW13_1\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests in test_unit_repository_emails.py">
+    <configuration name="Python tests for test_unit_repository_contacts.TestContacts.test_remove_contact_found" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="HW13_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_unit_repository_contacts.TestContacts.test_remove_contact_found&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_unit_repository_contacts.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="HW13_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_unit_repository_contacts.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_unit_repository_emails.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="HW13_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_unit_repository_emails.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in test_unit_repository_emails.py" />
+        <item itemvalue="Python tests.Python tests in test_unit_repository_contacts.py" />
+        <item itemvalue="Python tests.Python tests for test_unit_repository_contacts.TestContacts.test_remove_contact_found" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43975e0b-db28-43f5-865a-ccbb40b9a938" name="Changes" comment="" />
+      <created>1715534050001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715534050001</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_unit_repository_emails.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
